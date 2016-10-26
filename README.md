@@ -1,2 +1,2 @@
 # hello-world
-a test for github
+this is david and like to learn coding.
